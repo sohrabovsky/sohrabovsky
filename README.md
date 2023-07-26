@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sohrabovsky
-- 👀 I’m interested in marketing analysis specifically and data analysis generaly
+- 👀 I'm interested in business data analysis and creating machine learning and monitoring applications
 - 📫 How to reach me: s.salehin1@gmail.com
 
 <!---
